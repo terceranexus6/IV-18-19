@@ -1,3 +1,17 @@
+---
+title: "Hito 1"
+author: "JJ"
+date: "DATE"
+output:
+  html_document:
+     css: font-awesome-4.4.0/css/font-awesome.css
+     self_contained: no
+
+---
+<i class="fas fa-exclamation-circle"></i>
+
+To preview the correctly rendered html file, click <a href="http://htmlpreview.github.io/?https://github.com/FlorianWanders/FAonGitHub/blob/master/MWE.html" title="preview on htmlpreview.github.io" target="_blank">here</a>.
+
 # Hito 1
 
 Añade debajo enlaces a tu proyecto
@@ -27,23 +41,23 @@ Añade debajo enlaces a tu proyecto
 | HERRERA VARGAS, ALBERTO|[Hospital-IV](https://github.com/alberturria/Hospital-IV) | 2 |
 | JALDO RUIZ, JESUS MIGUEL|[OWStatistics](https://github.com/JmZero/Proyecto-IV) | 1.1 |
 | JIMENEZ ARGUELLO, ANTONIO JOSE|[ProyectoIV](https://github.com/antonioJ95/ProyectoIV)|0.3 |
-| JIMENEZ CAZORLA, MIGUEL| [Proyecto IV - Porra Deportiva](https://github.com/iMiguel10/Proyecto-IV-Porra-Deportiva-) | 2.0 |
+| JIMENEZ CAZORLA, MIGUEL| [Proyecto IV - Porra Deportiva](https://github.com/iMiguel10/Proyecto-IV-Porra-Deportiva-) | 2.0 <i class="fas fa-exclamation-circle"></i> |
 | KEMP MUÑOZ, MARCEL| [Proyecto_IV - Crupier](https://github.com/MarcelKemp/Proyecto_IV) | 1.1 |
 | LOPEZ CASTRO, JUAN MANUEL|[ProyectoIV](https://github.com/juanmaLC/ProyectoIV) |1.1 |
 | LOPEZ RUIZ, MARIO ANTONIO| [Billboard-IV](https://github.com/marioanloru/Billboard-IV) | 0.1 |
-| MARTINEZ GARCIA, ANTONIO| [Proyecto](https://github.com/antoniomg89/Project-Z) | 2 |
-| MARTIR MORENO, NATALIA MARIA|[Proyecto IV-Bot Noticias](https://github.com/natalia2911/ProyectoIV-BOT) |2.3 |
+| MARTINEZ GARCIA, ANTONIO| [Proyecto](https://github.com/antoniomg89/Project-Z) | 2 <i class="fas fa-exclamation-circle"></i> |
+| MARTIR MORENO, NATALIA MARIA|[Proyecto IV-Bot Noticias](https://github.com/natalia2911/ProyectoIV-BOT) |2.3 <i class="fas fa-exclamation-circle"></i>|
 | MARTOS RODRIGUEZ, ANTONIO|[Proyecto-IV](https://github.com/toniMR/Proyecto-IV) |2.0|
 | MAS MESA, IGNACIO | [game-server](https://github.com/cronos2/game-server) | 0.2.0 |
 | MORENO LOPEZ, JUAN ESTEBAN|[Proyecto](https://github.com/juaneml/IV_1819_Proyecto) |1.1.3 |
 | NAVARRETE CAMPOS, GINES|[LibSePeBOT-IV](https://github.com/GinesNC/LibSePeBOT-IV) | 0.6 |
 | ORDUÑA DIAZ, ADRIAN| [myWallet](https://github.com/adriordi/proyectoIV) | 0.2 |
 | OSORIO GIRALDEZ, OSCAR|[Gestor de citas](https://github.com/widowert/ProyectoIV)|1.1|
-| PEREZ RUBIALES, DAVID JESUS| [Proyecto Vengadores](https://github.com/Davidj231996/Proyecto-Vengadores)| 2.0|
+| PEREZ RUBIALES, DAVID JESUS| [Proyecto Vengadores](https://github.com/Davidj231996/Proyecto-Vengadores)| 2.0 <i class="fas fa-exclamation-circle"></i>|
 | PINEDA MOCHON, IGNACIO| [PeluqueriaIV](https://github.com/nachop97m/PeluqueriaIV)| 1.1|
 | PRALEA , MARICICA| [Proyecto_IV](https://github.com/maricicaP/Proyecto_IV) |1.1|
 | PRIETO INFANTE, JAVIER| [Proyecto](https://github.com/JaviPrieto/IV-Proyecto) |0.1 |
-| PULIDO POVEDA, JUAN CARLOS| [Gestión de VM](https://github.com/jcpulido97/ProyectoIV) | 2 |
+| PULIDO POVEDA, JUAN CARLOS| [Gestión de VM](https://github.com/jcpulido97/ProyectoIV) | 2 <i class="fas fa-exclamation-circle"></i> |
 | REY PEDROSA, PABLO| [Proyecto](https://github.com/PFeynman/proyecto-iv) | 0.0.1 |
 | RODRIGUEZ MARIN, SERGIO| [gAcademy](https://github.com/pavocejudo/ProyectoIV)|0.1 |
 | RUIZ LOPEZ, MANUEL | [Proyecto](https://github.com/manoliot/tiempo-aemet-bot) | 0.1.1 |
@@ -56,4 +70,4 @@ Añade debajo enlaces a tu proyecto
 | TORRES ROSEL, PABLO| [Proyecto](https://github.com/pablotr9/SimuladorBolsa-IV1819) | 0.2 |
 | UCEDA MORENO, ALEJANDRO| | |
 | VALENZUELA GARCIA, JORGE| | |
-| VIÑAS RODRIGUEZ, JOSE MARIA | [proyecto](https://github.com/joseviro/ProyectoTPV) | 2.1 |
+| VIÑAS RODRIGUEZ, JOSE MARIA | [proyecto](https://github.com/joseviro/ProyectoTPV) | 2.1 <i class="fas fa-exclamation-circle"></i> |
